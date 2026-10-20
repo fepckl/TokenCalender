@@ -1,4 +1,4 @@
-# Claude Usage Tracker – Windows
+# TokenCalender – Claude Usage Tracker for Windows
 
 Windows tray port of [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) (macOS, MIT; see `LICENSE-original.txt`).
 
